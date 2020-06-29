@@ -11,6 +11,10 @@ right click the project-> build path->configure build path->libraries section->a
 
 THEN
 
-right click the file-> run as->run configuration->argument -> VM argument, type in:
+right click the OthelloApplication in src/ca.utoronto.utm.othello.viewcontroller-> run as->run configuration->argument -> VM argument, type in:
 --module-path  javafx-sdk-11.0.2/lib --add-modules=javafx.controls 
  modify the path to correct path to the lib of javafx on your computer
+
+-----------------------------------------------------------------------------------------------------
+run OthelloApplication as above configuration to run the program
+Enjoy ur game!!
