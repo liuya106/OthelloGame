@@ -1,0 +1,6 @@
+Member1 name:   XuWencai     email:    wencai.xu@mail.utoronto.ca    utorid: xuwencai
+Member2 name: Linfeng Zhou   email: linfeng.zhou@mail.utoronto.ca    utorid: zhouli32
+Member3 name: xuejiahe       email: ericjiahe.xue@mail.utoronto.ca       utorid: xuejiah2
+Member4 name: Yang Liu       email: alexander.liu@mail.utoronto.ca        utorid:liuya106
+
+Coach Name: Matt Huynh       email: matt.huynh@mail.utoronto.ca

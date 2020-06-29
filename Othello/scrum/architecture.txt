@@ -1,0 +1,43 @@
+# Use this to outline your architecture, list the design patterns
+# you used in your code and how you used them. Use a few as appropriate
+# to make your code better, using them to complicate code will not help
+# your marks. Start by looking at the design patterns we covered in class.
+
+# USED 
+Observer/Observable : Created by arnold, to be used by the View to observe the Model.
+
+Strategy design pattern: In player opponent class. -  The user has theAbility to switch out 
+different opponents (Player Greedy Player Alpha Player Human) when he plays the game.
+
+Factory design pattern: dynamic user control of which instance of
+        a subclass is created at runtime.
+       (Player Greedy, Player Alpha (the improved strategy), or player Human).
+
+Visitor design pattern.
+
+
+ 
+
+
+# UNUSED
+Factory
+Observer/Observable
+Singleton
+Decorator
+Strategy
+State
+Adapter
+Command
+Iterator
+Flyweight
+Facade
+Proxy
+Composite
+Prototype
+Abstract Factory
+Bridge
+Template Method
+Builder
+Chain of Responsibility
+...
+There are more...

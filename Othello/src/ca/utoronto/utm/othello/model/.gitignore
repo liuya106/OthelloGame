@@ -1,0 +1,16 @@
+/Move.class
+/Othello.class
+/OthelloBoard.class
+/OthelloController.class
+/OthelloControllerHumanVSGreedy.class
+/OthelloControllerHumanVSHuman.class
+/OthelloControllerHumanVSRandom.class
+/OthelloControllerRandomVSGreedy.class
+/OthelloControllerRandomVSRandom.class
+/OthelloControllerVerbose.class
+/Player.class
+/PlayerGreedy.class
+/PlayerHuman.class
+/PlayerRandom.class
+/RandomVSRandom$FlipProbabilities.class
+/RandomVSRandom.class

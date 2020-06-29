@@ -1,0 +1,105 @@
+# Move User Stories from the ProductBacklog 
+# to the appropriate sprintBacklogN.txt after the 
+# Sprint Planning Meeting.
+
+# Sprint 3 Nov 03-Nov 09, 2019
+# Sprint 3 Backlog UserStories go below
+
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.09 : UTORID : STATUS : NotStarted (NotStarted,InProgress, Incomplete,Complete)
+NAME     : Othello Timer Fixed Time
+OWNER    : 
+PRIORITY : (1,2,3)
+ESTIMATE : (1 hour, 2 hours, 4 hours, 1 day, 2 days, 4 days)    ACTUAL :  
+ISSUE    : When users play, they see a chess like timer for the othello game. 
+For this user story, the time is fixed to 5 minutes/player.
+After a player makes a move the timer switches off for the player and on for the next mover.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.091 : UTORID : STATUS : NotStarted (NotStarted,InProgress, Incomplete,Complete)
+NAME     : Othello Timer User Specified Time
+OWNER    : 
+PRIORITY : (1,2,3)
+ESTIMATE : (1 hour, 2 hours, 4 hours, 1 day, 2 days, 4 days)    ACTUAL :  
+ISSUE    : When users play, they see a chess like timer for the othello game. 
+For this user story, the user is allowed to specify the time for each user.
+After a player makes a move the timer switches off for the player and on for the next mover.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.10 : UTORID : zhouli32 : Completed
+NAME     : AI Hint
+OWNER    : Linfeng Zhou
+PRIORITY : (1,2,3)
+ESTIMATE : 2 days    ACTUAL :  2 days
+ISSUE    : When the user is playing, the current mover can select a gui
+component (click a button etc) and a hint will display. For this user story
+just display the (row, col) of the hint.
+
+NOTE: Add some other user stories (1.101, 1.102, ...) which improve on this,
+For example: 
+1) Instead of displaying the (row,col) how about highlighting the position
+on the board.
+
+2) User can select a menu item/checkbox etc. to have, for example, the greedy hint highlighted
+on the board at all times. 
+
+3) As in 2, but a random hint
+...
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.08 : UTORID :xuejiah2 STATUS : Completed
+NAME     : Opponent Chooser Implementation
+OWNER    : Xue Jiahe
+PRIORITY : (1,2,3)
+ESTIMATE : 2 days  ACTUAL : 3 days 
+ISSUE    : An extension to Opponent Chooser, we implement the users choice
+of opponent, so the Human can actually play the select opponent. Reminder:
+the user should be able to switch opponents at any time during game play.
+THe current game continues with the new opponent.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.081 : UTORID :zhouli32 STATUS : Completed
+NAME     : Opponent Chooser Implementation
+OWNER    : Linfeng Zhou
+PRIORITY : 2
+ESTIMATE : 1 days  ACTUAL : 1 day 
+ISSUE    : First Page option and first page controller is not working
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.11 : UTORID : xuwencai : STATUS : Completed
+NAME     : Restart
+OWNER    : XuWencai
+PRIORITY : 1
+ESTIMATE : 2 hour   ACTUAL :  2 hour
+ISSUE    : When a user is playing, they see a button etc. which allows them
+to restart the game. 
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.12 : UTORID :liuya106 STATUS : Complete
+NAME     : Undo
+OWNER    : Yang Liu
+PRIORITY : 1
+ESTIMATE : 2 hours    ACTUAL :  4 hours
+ISSUE    : A user has the ability to undo the last move or moves.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.13 : UTORID :liuya106 STATUS :Complete
+NAME     : Animation
+OWNER    : Yang Liu
+PRIORITY : 1
+ESTIMATE :1 day   ACTUAL :  4 hours
+ISSUE    : When a user makes a move, they see an animation associated
+with their placing a piece. 
+--------------------------------------------------------------------------
+
+TYPE     : USER STORY 1.18 : UTORID : xuwencai : STATUS : Completed
+NAME     : Init Gui
+OWNER    : XuWencai
+PRIORITY : 3
+ESTIMATE : 3 hour   ACTUAL :  3 hour
+ISSUE    : Create the first page class which is the Iron man and three gems..
+Each gem represents one game mode. This allows the user
+to choose Human VS Human game mode, or Human VS Greedy game mode,
+or Human VS Alpha game mode(The improved strategy in UserStory1.15).
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------

@@ -1,0 +1,51 @@
+# Move User Stories from the ProductBacklog 
+# to the appropriate sprintBacklogN.txt after the 
+# Sprint Planning Meeting.
+
+# Sprint 1 Oct 20-Oct 26, 2019
+# Sprint 1 Backlog UserStories go below
+
+--------------------------------------------------------------------------
+TYPE     : BUG 0.01 : UTORID :xuwencai STATUS : Complete
+NAME     : Configure and use system
+OWNER    : Xuwencai
+PRIORITY : 1
+ESTIMATE : 1 hour    ACTUAL :  2 hour
+ISSUE    : Member 1 
+- demonstrates that they have added, committed and pushed members.txt. 
+- demonstrates that they can run OthelloControllerHumanVSHuman on their dev platform
+- demonstrates that they can run MVCApplication on their dev platform
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 0.02 : UTORID :zhouli32 STATUS : Complete
+NAME     : Configure and use system
+OWNER    : Linfeng Zhou
+PRIORITY : 1
+ESTIMATE : 1 hour    ACTUAL :  1 hour
+ISSUE    : Member 2 
+- demonstrates that they have added, committed and pushed members.txt. 
+- demonstrates that they can run OthelloControllerHumanVSHuman on their dev platform
+- demonstrates that they can run MVCApplication on their dev platform
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 0.03 : UTORID :xuejiah2 STATUS : Complete
+NAME     : Configure and use system
+OWNER    : Xue Jiahe
+PRIORITY : 1
+ESTIMATE : 1 hour    ACTUAL :  10 min
+ISSUE    : Member 3
+- demonstrates that they have added, committed and pushed members.txt. 
+- demonstrates that they can run OthelloControllerHumanVSHuman on their dev platform
+- demonstrates that they can run MVCApplication on their dev platform
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 0.04 : UTORID :liuya106 STATUS : Complete
+NAME     : Configure and use system
+OWNER    : Yang Liu
+PRIORITY : 1
+ESTIMATE : 1 hour   ACTUAL : 14min
+ISSUE    : Member 4
+- demonstrates that they have added, committed and pushed members.txt. 
+- demonstrates that they can run OthelloControllerHumanVSHuman on their dev platform
+- demonstrates that they can run MVCApplication on their dev platform
+--------------------------------------------------------------------------

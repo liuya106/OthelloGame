@@ -1,0 +1,226 @@
+# Fill in, commit and push each day.
+Member name:      email:     utorid:   
+
+Oct 17,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 18,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 19,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 20,2019
+	What I did yesterday:
+	What I will do today:Set up environment
+	Obstacles I face: understanding .gitignore file
+
+Oct 21,2019
+	What I did yesterday:Set up enviroment 
+	What I will do today:USER STORY 1.011 
+	Obstacles I face:Basics of JavaFx
+
+Oct 22,2019
+	What I did yesterday:USER STORY 1.011 
+	What I will do today:
+	Obstacles I face:
+
+Oct 23,2019
+	What I did yesterday:
+	What I will do today:BUG 1.021
+	Obstacles I face: review and read mvc slides 
+
+Oct 24,2019
+	What I did yesterday:BUG 1.021
+	What I will do today:
+	Obstacles I face:
+
+Oct 25,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 26,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 27,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 28,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 29,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 30,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 31,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 1,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 2,2019
+	What I did yesterday:
+	What I will do today:USER STORY 1.06:Change tokens to Images
+	Obstacles I face: one line keeps causing bug which is
+	“Image black = new Image(getClass().getResourceAsStream("/black.PNG”));”
+	my teammate helped figued out that I should the png file under directory bin.
+
+Nov 3,2019
+	What I did yesterday:US.1.06
+	What I will do today:US.1.08 and US 1.10
+	Obstacles I face:
+
+Nov 4,2019
+	What I did yesterday:US.1.10
+	What I will do today:review for sta256
+	Obstacles I face:
+
+Nov 5,2019
+	What I did yesterday:review for sta256
+	What I will do today:sta256 test
+	Obstacles I face:
+
+Nov 6,2019
+	What I did yesterday:review for sta256
+	What I will do today:csc236 a3
+	Obstacles I face:
+
+Nov 7,2019
+	What I did yesterday:csc236 a3
+	What I will do today:review for phl245
+	Obstacles I face:phl245 test
+
+Nov 8,2019
+	What I did yesterday:review for phl245
+	What I will do today:
+
+Nov 9,2019
+	What I did yesterday:
+	What I will do today:get timer working
+	Obstacles I face: 
+
+Nov 10,2019
+	What I did yesterday:timer working
+	What I will do today:UserStory 1.09
+	Obstacles I face: BUG1.09
+
+Nov 11,2019
+	What I did yesterday:UserStory 1.09
+	What I will do today:Review CSC236
+	Obstacles I face:
+
+Nov 12,2019
+	What I did yesterday:CSC236
+	What I will do today: Finish up 1.09
+	Obstacles I face:BUG 1.091 and BUG 1.092
+
+Nov 13,2019
+	What I did yesterday:Finish up 1.09
+	What I will do today:CSC236 Review and A.I Hint
+	Obstacles I face: The hint highlight 
+	will not disappear after the move
+	
+Nov 14,2019
+	What I did yesterday:CSC236 Review and A.I hint
+	What I will do today:BUG 1.17
+	Obstacles I face: Understanding the concept of Visitor pattern
+	Choose which to be Visitable or Visitor.
+	
+Nov 15,2019
+	What I did yesterday:BUG 1.17
+	What I will do today:Merge teammate's UserStory 1.13 to master
+	Obstacles I face: BUG1.131 and some other git merge issue.
+
+Nov 16,2019
+	What I did yesterday:Merge teammate's UserStory 1.13 to master
+	What I will do today:Finish Bug1.17
+	Obstacles I face:In fact for our assignment its is weird to use visitor, in my
+	opinion, the pattern should be use for bigger projects. ONlY minor changes applied. 
+
+Nov 17,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 18,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 19,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 20,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 21,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 22,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 23,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 24,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 25,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 26,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 27,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 28,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 29,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:

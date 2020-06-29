@@ -1,0 +1,143 @@
+# Move User Stories from the ProductBacklog 
+# to the appropriate sprintBacklogN.txt after the 
+# Sprint Planning Meeting.
+
+# Sprint 4 Nov 10-Nov 16, 2019
+# Sprint 4 Backlog UserStories go below
+
+--------------------------------------------------------------------------
+TYPE     : BUG 1.09 : UTORID :xuejiah2,zhouli32 STATUS : Completed
+NAME     : Othello Timer Fixed Time(restart problemm)
+OWNER    : Jiahe Xue, Linfeng Zhou, 
+PRIORITY : 1
+ESTIMATE : 4 hours    ACTUAL :  3 hours
+ISSUE    : 1. Restart not functioning properly (When the token on the othello board is EMPTY, 
+after using the restart function, the token on the old view will be left on the new one.) 
+		   2. By fixing this, the undo function is now also functioning and the timer can call restart function now. 
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 1.091 : UTORID :zhouli32 STATUS : Completed
+NAME     : Othello Timer (game bugs if timer is not set up first)
+OWNER    : Linfeng ZHou
+PRIORITY : 1
+ESTIMATE : 3 hours    ACTUAL :  1 hour
+ISSUE    : 1. Start game without set the time has problem. 
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 1.092 : UTORID :zhouli32 STATUS : Completed
+NAME     : Othello Timer (time keeps running after restart)
+OWNER    : Linfeng Zhou
+PRIORITY : 1
+ESTIMATE : 3 hours    ACTUAL :  1 hour
+ISSUE    : 1. time keeps running after restart
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.09 : UTORID :zhouli32 STATUS : Completed
+OWNER    : Linfeng Zhou
+PRIORITY : 1
+ESTIMATE : 1 day    ACTUAL :  1 day
+ISSUE    : When users play, they see a chess like timer for the othello game. 
+For this user story, the time is fixed to 5 minutes/player.
+After a player makes a move the timer switches off for the player and on for the next mover.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.091 : UTORID :zhouli32 STATUS :Completed
+NAME     : Othello Timer User Specified Time
+OWNER    : Linfeng Zhou
+PRIORITY : 1
+ESTIMATE : 1  day   ACTUAL :  3 days
+ISSUE    : When users play, they see a chess like timer for the othello game. 
+For this user story, the user is allowed to specify the time for each user.
+After a player makes a move the timer switches off for the player and on for the next mover.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.14 :xuwencai: STATUS : Completed
+OWNER    : XuWencai
+PRIORITY : 1
+ESTIMATE : 2 hour   ACTUAL :  4 hour
+ISSUE    : When a user is playing, they see the positions that they can
+move highlighted vs the positions they can't move.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+
+
+TYPE     : USER STORY 1.15 : UTORID : xuwencai STATUS : Completed
+NAME     : Better strategy
+OWNER    : XuWencai
+PRIORITY :  1
+ESTIMATE : 4 hour   ACTUAL :  4 hour
+ISSUE    : A user can play the following, improved strategy:
+Choose a corner if available,
+otherwise choose a side if available, otherwise choose a space that
+maximizes the players presence in the middle 4 by 4 square of the board,
+otherwise choose the location maximizing the movers presence on the board. 
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 1.012 : UTORID :liuya106 STATUS : Complete
+NAME     : button size 
+OWNER    : Liu Yang
+PRIORITY : 3
+ESTIMATE : 1 hour    ACTUAL : 30 min
+ISSUE    : When user resize the scene, button remains same size and left no 
+space between buttons
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 1.06 : UTORID :liuya106 STATUS : Complete
+NAME     : board layout
+OWNER    : Liu Yang
+PRIORITY : 3
+ESTIMATE : 1 hour    ACTUAL : 30 min
+ISSUE    : reconstruct the image size so that it looks decent
+-------------------------------------------------------------------------
+
+TYPE     : 1.08 bug: UTORID :xuwencai STATUS : Complete
+NAME     : Fix potential bug in UserStory1.08 and use design pattern to rewrite it.
+OWNER    : XuWencai
+PRIORITY : 2
+ESTIMATE : 4 hour    ACTUAL : one afternoon
+ISSUE    : In branch UserStory1.08 bug, rewrite 1.08 with strategy design pattern and factory design pattern.
+Also when Human VS Human, O moves next, and we switch to Human Vs Greedy. The Greedy will automatically
+make a move. I make this one come true.
+-------------------------------------------------------------------------
+
+TYPE     : Bug 1.09: UTORID :xuejiah2 STATUS : Complete
+NAME     : Preparing image for two players, black and white.
+OWNER    : xuejiahe
+PRIORITY : 3
+ESTIMATE : 1 hour    ACTUAL : 1 hour
+ISSUE    : The token on the board was horrible, I draw two tokens with AI and resized them. 
+-------------------------------------------------------------------------
+TYPE     : Bug 1.10: UTORID :xuejiah2 STATUS : Complete
+NAME     : Animation
+OWNER    : xuejiahe
+PRIORITY : 2
+ESTIMATE : 2 hour    ACTUAL : 2 hour
+ISSUE    : The Animation used to perform for all the tokens on the board, after fixing the bug that it didn't clear
+all the history move in Animation, the bug is fixed. ( The arraylist in Othello is cleared everytime)
+-------------------------------------------------------------------------
+TYPE     : Bug 1.11: UTORID :xuejiah2 STATUS : Complete
+NAME     : HighLight problem in hint
+OWNER    : xuejiahe
+PRIORITY : 1
+ESTIMATE : 2 hour   ACTUAL : 3 hour
+ISSUE    : After using the hint button, the gird that suppose to be on highlight has no reaction. This is caused by
+the update method in the OthelloView. The if and else logic is incorrect. 
+-------------------------------------------------------------------------
+TYPE     : Bug 1.12: UTORID :xuejiah2 STATUS : Complete
+NAME     : Undo problem when it comes the the beginning
+OWNER    : xuejiahe , XuWenCai
+PRIORITY : 2
+ESTIMATE : 2 hour   ACTUAL : 3 hour
+ISSUE    : The undo problem is having some trouble when it comes to the first token put on the board, this is caused by
+the unavoidable for loop at the end of the update method.
+-------------------------------------------------------------------------
+TYPE     : Bug 1.121: UTORID :zhouli32 STATUS : Complete
+NAME     : Undo problem when it comes the the beginning
+OWNER    : LinFengZhou
+PRIORITY : 2
+ESTIMATE : 2 hour   ACTUAL : 3 hour
+ISSUE    : The undo problem is having some trouble when it comes to the first token put on the board, this is caused by
+the unavoidable for loop at the end of the update method.
+-------------------------------------------------------------------------
+

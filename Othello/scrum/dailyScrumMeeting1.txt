@@ -1,0 +1,220 @@
+# Fill in, commit and push each day.
+Member name: XuWencai     email:   wencai.xu@mail.utoronto.ca  utorid:   xuwencai
+
+Oct 17,2019
+	What I did yesterday: Not started
+	What I will do today: Not started
+	Obstacles I face:  Not started
+
+Oct 18,2019
+	What I did yesterday:  Not started
+	What I will do today:  Not started
+	Obstacles I face:  Not started
+
+Oct 19,2019
+	What I did yesterday:  Not started
+	What I will do today:   Not started
+	Obstacles I face:   Not started
+
+Oct 20,2019
+	What I did yesterday:  Not started
+	What I will do today:  Not started
+	Obstacles I face:  Not started
+
+Oct 21,2019
+	What I did yesterday: 
+	What I will do today:  Try to understand the git branch but can't figure it out..
+	Obstacles I face:   The understanding issue
+
+Oct 22,2019
+	What I did yesterday:  Try to understand the git branch but can't figure it out..
+	What I will do today: Finish UserStory 1.01 in my local
+	Obstacles I face: no issue
+
+Oct 23,2019
+	What I did yesterday:  UserStory 1.01
+	What I will do today:  understand the git branch and merge and added committed and pushed members.txt. 
+	Obstacles I face:  no
+
+Oct 24,2019
+	What I did yesterday:  understand the git branch and merge and added committed and pushed members.txt. 
+	What I will do today: Finish checking MVC and Othello can run in my machine
+	Obstacles I face:  some issues about jdk 1.80, but fix it successully
+
+Oct 25,2019
+	What I did yesterday:   Finish checking MVC and Othello can run in my machine
+	What I will do today:  Finish UserStoryBug0.01 and commit and push to that branch and merge it to master
+	Obstacles I face: I merge it to master because I believe it's done.
+
+Oct 26,2019
+	What I did yesterday:  Finish UserStoryBug0.01 and commit and push to that branch and merge it to master
+	What I will do today: thinking about the USER STORY 1.01
+	Obstacles I face:  haven't figured out the optimal solution
+
+Oct 27,2019
+	What I did yesterday: thinking about the USER STORY 1.01
+	What I will do today: Finish User Story1.01
+	Obstacles I face:  No obstacle today
+
+Oct 28,2019
+	What I did yesterday:  Finish User Story1.01
+	What I will do today:   Thinking about user story1.02
+	Obstacles I face: have a general idea, but the code still doesn't run
+
+Oct 29,2019
+	What I did yesterday:  Thinking about user story1.02
+	What I will do today:    Finish userstory 1.02
+	Obstacles I face:   spend a long time on it, but finish it.
+
+Oct 30,2019
+	What I did yesterday:    Finish userstory 1.02
+	What I will do today:    Work with teammates for user story 1.03,1.04,1.05
+	Obstacles I face:   Have some arguments,but solved.
+
+Oct 31,2019
+	What I did yesterday:  Work with teammates for user story 1.03,1.04,1.05
+	What I will do today:   prepare for the midterm.
+	Obstacles I face:      /
+
+Nov 1,2019
+	What I did yesterday:   prepare for the midterm. 
+	What I will do today:    Finish a GUI with picture "Iron Man" and "Infinity Stone" which is first scene that the user sees
+	Obstacles I face:   First time dealing with picture, take some time to learn it
+
+Nov 2,2019
+	What I did yesterday:  Finish a GUI with picture "Iron Man" and "Infinity Stone" which is first scene that the user sees
+	What I will do today:   Work with teammates for user story 1.08.
+	Obstacles I face:  take a long time to figure out a optimal solution
+
+Nov 3,2019
+	What I did yesterday: Work with teammates for user story 1.08.
+	What I will do today:   Try to find the optimail solution for 1.08
+	Obstacles I face: The code is too long for 1.08
+
+Nov 4,2019
+	What I did yesterday:  Try to find the optimail solution for 1.08
+	What I will do today:  Finish UserStory1.10
+	Obstacles I face:  No 
+
+Nov 5,2019
+	What I did yesterday:  Finish UserStory1.10
+	What I will do today:    Finish UserStory1.11
+	Obstacles I face: A small issue that makes me debug for one hour
+
+Nov 6,2019
+	What I did yesterday: Finish UserStory1.11
+	What I will do today:   Write a code report to my teammates
+	Obstacles I face:    No
+
+Nov 7,2019
+	What I did yesterday:  Write a code report to my teammates
+	What I will do today:   Give advice for teeamate that is doing 1.09
+	Obstacles I face:   Hard to give good advice
+
+Nov 8,2019
+	What I did yesterday:  Give advice for teeamate that is doing 1.09
+	What I will do today:   Still thinking about how to make 1.08 code shorter.
+	Obstacles I face: I still didn't figure it out.
+
+Nov 9,2019
+	What I did yesterday:  Still thinking about how to make 1.08 code shorter.
+	What I will do today:   Have a rest, it is Saturday, and I have worked for more than 10 days.
+	Obstacles I face:  Pretty good rest.
+
+Nov 10,2019
+	What I did yesterday: Rest
+	What I will do today:  Learn all the design pattern and understand the code written by others
+	Obstacles I face: Hard to understand the code written by others
+
+Nov 11,2019
+	What I did yesterday: Learn all the design pattern and understand the code written by others
+	What I will do today: Finish UserStory1.15 Player Alpha in model, but not applied on GUI.
+	Obstacles I face: Try to find the most optimal solution with less code, but still use 2 private method to solve it.
+
+Nov 12,2019
+	What I did yesterday: Finish UserStory1.15 Player Alpha in model, but not applied on GUI.
+	What I will do today:  Apply UserStory1.15 in GUI.
+	Obstacles I face: No obstacle today.
+
+Nov 13,2019
+	What I did yesterday: Apply UserStory1.15 in GUI.
+	What I will do today: Fixed 1.08 bug. When O moves next, we change mode to Human VS Greedy, The greedy player will auotomatically make one move.
+	Obstacles I face: Really don't know how to fix this at first, I don't know how to make the player Greedy automatically make one move.
+
+Nov 14,2019
+	What I did yesterday: Fixed1.08 bug
+	What I will do today: Finish 1.08bug. User Factory pattern and Strategy pattern to write it.
+	Obstacles I face: Spent like the entire afternoon but good to fix it.
+
+Nov 15,2019
+	What I did yesterday:  Finish 1.08bug. User Factory pattern and Strategy pattern to write it.
+	What I will do today:  Finish UserStory 1.14.
+	Obstacles I face: Issue with git branch.
+
+Nov 16,2019
+	What I did yesterday: Finish UserStory 1.14.
+	What I will do today:  Write the JavaDoc for a2.
+	Obstacles I face: No.
+
+Nov 17,2019
+	What I did yesterday:   Write the JavaDoc and aritcheture.
+	What I will do today: Finished.
+	Obstacles I face: No.
+
+Nov 18,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 19,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 20,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 21,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 22,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 23,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 24,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 25,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 26,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 27,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 28,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 29,2019
+	What I did yesterday:
