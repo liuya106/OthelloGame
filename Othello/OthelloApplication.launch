@@ -13,5 +13,5 @@
 <booleanAttribute key="org.eclipse.jdt.launching.ATTR_USE_CLASSPATH_ONLY_JAR" value="false"/>
 <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="ca.utoronto.utm.othello.viewcontroller.OthelloApplication"/>
 <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="Assignment2"/>
-<stringAttribute key="org.eclipse.jdt.launching.VM_ARGUMENTS" value="--module-path javafx-sdk-11.0.2\lib  --add-modules=javafx.controls"/>
+<stringAttribute key="org.eclipse.jdt.launching.VM_ARGUMENTS" value="--module-path C:\Users\Alex\Desktop\documents\csc207\javafx\javafx-sdk-11.0.2\lib --add-modules=javafx.controls"/>
 </launchConfiguration>
